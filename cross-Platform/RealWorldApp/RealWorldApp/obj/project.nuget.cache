@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mn8pXT6OnvMUEi+od5+TcEZJseTVSU674crj+hUlHci69GJqrwJ7iIeWZ73/7MYGX4RTSwBrm4Ze6+7/kBSqwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\youcode\\Desktop\\cross-Platform\\RealWorldApp\\RealWorldApp\\RealWorldApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\youcode\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\youcode\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\youcode\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\youcode\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\youcode\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\youcode\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}
